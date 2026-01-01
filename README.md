@@ -31,25 +31,26 @@ Para a execução deste projeto, foram utilizadas as seguintes bibliotecas Pytho
 
 ---
 
-## 📊 Estrutura do Repositório
+## 💡 Principais Insights
 
-* `/data`: Contém os datasets utilizados (ou instruções de como acessá-los).
-* `/notebooks`: Jupyter Notebooks com o passo a passo da análise.
-* `/reports`: Relatórios gerados e imagens das visualizações de dados.
+1. Quem não possui dependentes, abandona com facilidade.
+2. Quem possui serviço de telefonia, permanece por mais tempo.
+3. Quem possui o serviço de fibra óptica, abandona com facilidade.
+4. Quem não possui serviço de segurança online, abandona com facilidade.
+5. Quem não possui serviço adicional de prioridades em chamados para suporte, abandona com facilidade.
+6. Quem possui assinatura de contrato na modalidade mensal abandona com facilidade.
+7. Quem efetua pagamento por meio de cheque eletrônico abandona com mais facilidade.
+8. Clientes desistem nos primeiros meses de relacionamento com a empresa.
+9. Clientes que pagam pouco no seu plano tendem a permanecer mais tempo.
 
----
+10. Clientes com contas mais caras têm uma propensão muito maior a cancelar, o que pode indicar carência de benefícios percebidos.
 
-## 💡 Principais Insights (Exemplo)
-
-> [!TIP]
-> Durante a análise, observou-se que clientes com contratos mensais possuem uma taxa de churn **X% superior** aos clientes com contratos anuais, sugerindo que políticas de fidelização podem ser uma solução imediata.
+11. O Ponto crítico de perdas de clientes é aproximadamente a partir de 70 R$.
 
 ---
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome Aqui]**. Conecte-se comigo!
+Desenvolvido por **Elian Ramon de Sarges Rodrigues**. Conecte-se comigo!
 
----
 
-**Gostaria que eu preenchesse a seção de "Principais Insights" com alguns exemplos reais de análises de churn ou prefere que eu ajude a detalhar a parte da instalação do projeto?**

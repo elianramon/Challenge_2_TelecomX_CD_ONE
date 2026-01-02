@@ -53,4 +53,6 @@ Para a execução deste projeto, foram utilizadas as seguintes bibliotecas Pytho
 
 Desenvolvido por **Elian Ramon de Sarges Rodrigues**. Conecte-se comigo!
 
+https://www.linkedin.com/in/elian-ramon/
+
 
